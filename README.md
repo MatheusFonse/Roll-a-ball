@@ -5,7 +5,6 @@
 ## Sobre o projeto: Este jogo é um  projeto em que uma bola rola e coleta milhos em um labirinto.
 ## O que o projeto faz: O jogador movimenta a bolinha com as teclas WSAD, e quando ele encosta no milho (os coletáveis), eles desaparecem. 
 ## O que o projeto contém  
-**Cenas:** MiniGame
 **Scripts:** CameraFollow, Coletavel, Coletavel2, GerenciadorDoJogo, PlayerController e rotator. 
 **Objetos principais:** Bolinha(player), Chao (Ground), Milho(collectibles), ParedePrincipal(walls), ParedeSecundaria(walls).
 **Recursos usados:**  Rigidbody, Box Collider e Mesh Collider com Is Trigger, TextMeshPro]
